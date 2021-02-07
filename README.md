@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gustavo Ferreira, I'm a Software Enginner at EPAM Systems and I've been working in the technology area since 20011. 
+I'm Gustavo Ferreira, I'm a Software Enginner at EPAM Systems and I've been working in the technology area since 2011. 
 
 Nowadays I'm living at Krakow in Poland. 
 
