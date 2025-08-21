@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Gustavo Ferreira, I'm a Software Enginner at EPAM Systems and I've been working in the technology area since 2011. 
-
-I'm currently living in Krakow, Poland. 
+I'm Gustavo Ferreira, I'm a Software Enginner working in the technology area since 2011. 
 
 [![Linkedin: gustavo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavonevesferreira/)](https://www.linkedin.com/in/gustavonevesferreira/)
 
